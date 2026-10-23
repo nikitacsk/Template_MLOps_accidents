@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "remote_storage"']
+    url = ../../dvc_remote
+['remote "origin"']
+    url = https://dagshub.com/nikitacsk/Template_MLOps_accidents.dvc
